@@ -1,6 +1,49 @@
 var data = {
     "baggers": [
         {
+            "name": "Hammed Ramdani",
+            "bio": "Ingénieur en Informatique et diplômé de l’INSA - DEA en traitement de Signal, Image et Parole -, Hammed dispose de plus de 15 ans d’expérience avec un background scientifique et technique. Il a occupé divers rôles, notamment Développeur, Leader technique, Expert R&D, Business Analyst, Manager de projets Agile, Architecte SI et BigData. Speaker au Devoxx et Certifié Innovation Games Facilitator, il anime régulièrement des présentations sur le BigData et le Machine Learning ainsi que des ateliers d’innovation games, dans le cadre de missions pour des clients ou de rencontres communautaires (BarCamps, soirées du French Scrum User Group, etc.)",
+            "picture": "http://ramdani.net/public-repo/smr-212239878778/hammed.png",
+            "websites": [
+                {
+                    "title": "Palo IT Blog",
+                    "href": "http://blog.palo-it.com"
+                }
+            ],
+            "twitter": "smramdani",
+            "contact": "hammed.ramdani [at] gmail.com",
+            "mail": "hammed.ramdani@gmail.com",
+            "location": "Ile de France",
+            "sessions": [
+                {
+                    "title": "Osez le gamestorming",
+                    "summary": "Présentation du concept de gamestorming et d'innovation games et du pourquoi ça marche. Mise en pratique avec quelques exemples pour mettre le pied à l'étrier ;-)"
+                },
+                {
+                    "title": "Attaquez le Mahout",
+                    "summary": "Présentation de vulgarisation du Machine Learning avec Apache Mahout, étude de cas réels et mise en pratique. Prérequis : être familier avec Linux et savoir coder en java"
+                }
+            ],
+            "tags": [
+                "Gamestorming",
+                "Innovation games",
+                "Sérious games",
+                "Business games",
+                "Apache Mahout",
+                "Hadoop",
+                "Machine Learning",
+                "Recommandation",
+				"Collaboratif filtring",
+                "Classification",
+                "Claustering",
+                "Catégorisation",
+                "Coding",
+            ],
+            "cities": [
+                "Paris", "Compiègne"
+            ]
+        },
+        {
             "name": "Cyrille Dupuydauby",
             "bio": "Je vis l'informatique avec passion depuis plus de 30 ans; très expérimenté dans de nombreux domaines, j'ai concentré mes efforts récents sur les enjeux d'architectures parallèles/concurrentes, fort débit, faible latence et haute disponibilité qui jalonnent les SIs de la finance. Agiliste convaincu, la compréhension des enjeux métiers me sont au moins aussi important que la maîtrise technique. J'adore le partage des compétences, et je suis un ardent supporter du 'Pit Of Success'!",
             "picture": "http://gravatar.com/avatar/43022845c143b75a94c7c4b855975ee3&size=200",
